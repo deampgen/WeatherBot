@@ -1,2 +1,2 @@
 # WeatherBot
-Bot which showing the weather by command /weather <city>
+Bot which showing the weather by command /weather [city]
