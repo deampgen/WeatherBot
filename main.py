@@ -34,7 +34,7 @@ def find_weather(city=None):
         print(f'Error: {e}')
 
 
-
+# working like /weather "your city"
 @bot.message_handler(commands=['weather'])
 def weather(message):
     chat_id = message.chat.id
